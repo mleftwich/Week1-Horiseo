@@ -1,4 +1,4 @@
-# Week1 Horiseon
+# Week 1 Horiseon
  ## Week 1 Challenge - Refactoring Horiseon Website
  This week we were asked to "refact" a website - a common job for junior web developers, involving meeting a clients needs while employing up to date methods and current best practice. You should always leave the code cleaner than you found it. 
  
