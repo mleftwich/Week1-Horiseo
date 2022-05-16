@@ -119,7 +119,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+    }
 
 .services img {
     max-height: 200px;
@@ -132,6 +132,8 @@ p {
 }
 
 
+/* Footer Styling */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -142,4 +144,5 @@ p {
 
 .footer h2 {
     font-size: 20px;
+    color: #ffffff;
 }
